@@ -1,5 +1,6 @@
-package day.earned.earned_mobile
+package day.earned.app
 
 import io.flutter.embedding.android.FlutterActivity
 
 class MainActivity: FlutterActivity()
+
