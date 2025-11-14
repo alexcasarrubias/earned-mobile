@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>7163778944-dq8vob0k2hmj7hgvfcg002k2re2pqatq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.7163778944-dq8vob0k2hmj7hgvfcg002k2re2pqatq</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC-4bnv5vmpLXkk3mdjNi92exA8BdJGhbc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>7163778944</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>day.earned.app</string>
+	<key>PROJECT_ID</key>
+	<string>earned-mobile-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>earned-mobile-app.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:7163778944:ios:73e23152294655acd1d365</string>
+</dict>
+</plist>

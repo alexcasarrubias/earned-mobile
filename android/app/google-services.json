@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "7163778944",
+    "project_id": "earned-mobile-app",
+    "storage_bucket": "earned-mobile-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7163778944:android:cf24dbd703db0837d1d365",
+        "android_client_info": {
+          "package_name": "day.earned.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7163778944-320qnli3q0baerjrt8u0l03en3jjg5jk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDBLOWvc2qWil1N4T_d0aRmJUrZWsw6Ic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7163778944-320qnli3q0baerjrt8u0l03en3jjg5jk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
